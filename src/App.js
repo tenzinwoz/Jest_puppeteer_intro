@@ -22,7 +22,7 @@ function App() {
     <div className="App">
       <Provider store={store}>
         <Container maxWidth="sm" sx={{ mt: 5 }}>
-          <BrowserRouter>
+          <BrowserRouter basename="/jest_puppeteer_intro">
             <Box sx={{ mb: 3 }}>
               <Menu />
             </Box>
