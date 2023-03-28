@@ -16,7 +16,7 @@ import Sync from "./components/Sync";
 
 import { store } from "./redux/store";
 import { Provider } from "react-redux";
-
+// hello
 function App() {
   return (
     <div className="App">
