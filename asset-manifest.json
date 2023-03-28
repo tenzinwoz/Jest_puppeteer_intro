@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jest_puppeteer_intro/static/css/main.079b6358.css",
-    "main.js": "/jest_puppeteer_intro/static/js/main.bd8dbbb5.js",
+    "main.js": "/jest_puppeteer_intro/static/js/main.a78fc6ba.js",
     "static/js/787.daab34fa.chunk.js": "/jest_puppeteer_intro/static/js/787.daab34fa.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/jest_puppeteer_intro/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/jest_puppeteer_intro/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -37,11 +37,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/jest_puppeteer_intro/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/jest_puppeteer_intro/index.html",
     "main.079b6358.css.map": "/jest_puppeteer_intro/static/css/main.079b6358.css.map",
-    "main.bd8dbbb5.js.map": "/jest_puppeteer_intro/static/js/main.bd8dbbb5.js.map",
+    "main.a78fc6ba.js.map": "/jest_puppeteer_intro/static/js/main.a78fc6ba.js.map",
     "787.daab34fa.chunk.js.map": "/jest_puppeteer_intro/static/js/787.daab34fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.079b6358.css",
-    "static/js/main.bd8dbbb5.js"
+    "static/js/main.a78fc6ba.js"
   ]
 }
